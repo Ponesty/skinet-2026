@@ -1,5 +1,5 @@
 ## Angular & .NET Project
-**This Project is following the Udemy tutorial "Learn to build an e-commerce app with .Net Core and Angular"**
+**This Project is following the Udemy tutorial "Learn to build an e-commerce app with .Net Core and Angular" by Neil Cummings**
 
 **Required:** angular, dotnet, nuget, mssql, docker/rancher desktop
 
