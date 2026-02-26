@@ -8,5 +8,5 @@
 3. Open docker/rancher
 4. In terminal navigate to the project folder.
 5. Run ```docker compuse up -d```
-6. Navigate to the API folder and run dotnet ef database update
+6. Navigate to the API folder and run ```dotnet ef database update```
 7. Run dotnet watch.
